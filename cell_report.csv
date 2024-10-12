@@ -1,0 +1,10 @@
+Node,Cell,PRB_Usage_Percentage,Percentage_Range (%),Status
+BTA El Ensueno,AWS_1,88.75651666666666,85 - 90,Sobrecargada
+BTA El Ensueno,AWS_2,69.26628958333333,65 - 70,Ok
+BTA El Ensueno,AWS_3,81.10731979166667,80 - 85,Sobrecargada
+BTA El Ensueno,B28_4,91.38343541666667,90 - 95,Sobrecargada
+BTA El Ensueno,B28_5,84.58285520833333,80 - 85,Sobrecargada
+BTA El Ensueno,B28_6,94.31099583333334,90 - 95,Sobrecargada
+BTA El Ensueno,B7_7,91.06425833333333,90 - 95,Sobrecargada
+BTA El Ensueno,B7_8,76.442259375,75 - 80,Ok
+BTA El Ensueno,B7_9,76.16763020833334,75 - 80,Ok
